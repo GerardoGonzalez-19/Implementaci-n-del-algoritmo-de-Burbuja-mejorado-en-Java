@@ -1,1 +1,2 @@
-# Implementaci-n-del-algoritmo-de-Burbuja-mejorado-en-Java
+Texto ChatGPT
+Necesito implementar en Java una versión optimizada del algoritmo Bubble Sort. El algoritmo clásico es poco eficiente porque hace muchas pasadas innecesarias. La mejora consiste en dejar una marca o índice que indique dónde se hizo el último intercambio, de manera que se reduzca el número de comparaciones en cada pasada. Por favor, genera el código en Java con una función bubbleSort que aplique esta optimización. Además, incluye un método main que muestre un ejemplo de uso con un arreglo de enteros y un método auxiliar para imprimir el arreglo. El código debe estar listo para compilar y ejecutar.
